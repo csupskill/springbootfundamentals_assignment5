@@ -1,7 +1,7 @@
-package com.assignments.assignment4.controller;
+package com.assignments.assignment5.controller;
 
-import com.assignments.assignment4.entity.Student;
-import com.assignments.assignment4.repository.StudentsRepository;
+import com.assignments.assignment5.entity.Student;
+import com.assignments.assignment5.repository.StudentsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

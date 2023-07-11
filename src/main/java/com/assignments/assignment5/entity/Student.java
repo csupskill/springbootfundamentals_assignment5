@@ -1,4 +1,4 @@
-package com.assignments.assignment4.entity;
+package com.assignments.assignment5.entity;
 
 
 import jakarta.persistence.Entity;
